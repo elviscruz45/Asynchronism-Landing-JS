@@ -1,0 +1,23 @@
+{
+  "name": "asynchronism-landing-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviscruz45/Asynchronism-Landing-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elviscruz45/Asynchronism-Landing-JS/issues"
+  },
+  "homepage": "https://github.com/elviscruz45/Asynchronism-Landing-JS#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
